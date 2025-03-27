@@ -28,24 +28,9 @@ README.md – текущее описание
 
 Python, Jupyter Notebook
 
-# Основные
-warnings
-datetime
-io
-numpy
-pandas
-# Визуализация
-matplotlib
-seaborn
-# Машинное обучение
-sklearn
-xgboost
-pmdarima
-# Временные ряды и статистика
-scipy
-statsmodels
-# Нейронные сети
-tensorflow
+warnings,datetime,io,numpy,pandas,
+matplotlib,seaborn,sklearn,xgboost,
+pmdarima,scipy,statsmodels,tensorflow,
 
 Машинное обучение, временные ряды, Reinforcement Learning
 
